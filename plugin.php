@@ -8,7 +8,7 @@
 /**
 Plugin Name: Tracking Progress
 Plugin URI: https://sdardour.com/lab/2020/tracking-progress-wordpress-plugin/
-Description: A WordPress Plugin for tracking progress. Requires the Bootstrap Plugin — https://github.com/sdardour/bootstrap-inside-wordpress-plugin/ —. Insert progress bars into WordPress posts and pages using simple shortcodes, e.g.: [planned], [working], [stuck], [finalizing] and [done].
+Description: A WordPress Plugin for tracking progress. Requires the Bootstrap Plugin — https://github.com/sdardour/bootstrap-inside-wordpress-plugin/ —. Insert progress bars into WordPress posts and pages using simple shortcodes: [planned], [working], [stuck], [finalizing] and [done].
 Author: lab@sdardour.com
 Version: 1.0
 Author URI: https://sdardour.com/lab
